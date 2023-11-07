@@ -1,0 +1,4 @@
+fake_useragent~=1.3.0
+requests~=2.31.0
+retrying~=1.3.4
+pandas~=2.1.2
